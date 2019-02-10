@@ -1,0 +1,78 @@
+{
+  "title": "Test: md of Ar atom in fcc cell",
+  "calculation type": "nd",
+  "initialization id": "s",
+  "output id": "n",
+  "alatt": 11,
+  "number of primitive cells": [
+    3,
+    3,
+    3
+  ],
+  "primitive cell vectors": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "fictitious cell mass": [
+    0.001,
+    0
+  ],
+  "number of atom types": 1,
+  "number of atoms of same type": [
+    4
+  ],
+  "name of each atomic type": [
+    "Ar"
+  ],
+  "atomic mass in proton units": [
+    36
+  ],
+  "reduced atomic position": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0.5,
+      0.5,
+      0
+    ],
+    [
+      0,
+      0.5,
+      0.5
+    ],
+    [
+      0.5,
+      0,
+      0.5
+    ]
+  ],
+  "cutoff radius": 40,
+  "number of neighboring supercells": [
+    6,
+    6,
+    6
+  ],
+  "number of MD timesteps": 1000,
+  "number of steps taken before temperature is checked or rescaled": 2200,
+  "number of times the temperature is checked": 10,
+  "chosen temperature": 0,
+  "relative temperature deviation tolerance": 0.001,
+  "time step in Rydberg-like units": 200,
+  "silence": false
+}
